@@ -484,7 +484,7 @@ const bool Z_MIN_PROBE_ENDSTOP_INVERTING = false; // set to true to invert the l
 //
 #define X_PROBE_OFFSET_FROM_EXTRUDER 6   // X offset: -left  +right  [of the nozzle]
 #define Y_PROBE_OFFSET_FROM_EXTRUDER -44   // Y offset: -front +behind [the nozzle]
-#define Z_PROBE_OFFSET_FROM_EXTRUDER -1.5// Z offset: -below +above  [the nozzle]
+#define Z_PROBE_OFFSET_FROM_EXTRUDER -1.7// Z offset: -below +above  [the nozzle]
 //#define Z_PROBE_OFFSET_FROM_EXTRUDER -10.40 // Z offset: -below +above  [the nozzle]
 
 // X and Y axis travel speed (mm/m) between probes
